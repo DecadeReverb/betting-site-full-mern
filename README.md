@@ -66,7 +66,7 @@
 
 ## 4. Contributing
 
-  + [Keenan Heller](https://github.com/kheller18)
+  + [Wilton Adelino dos Santos](https://github.com/DecadeReverb)
 
 
 ## 5. Tests
@@ -81,5 +81,5 @@
 
 ## 7. Questions
 
-  + [LinkedIn](https://www.linkedin.com/in/keenanheller/)
-  + [GitHub Profile](https://github.com/kheller18)
+  + [LinkedIn](https://www.linkedin.com/in/wiltonasantos)
+  + [GitHub Profile](https://github.com/DecaseReverb)
