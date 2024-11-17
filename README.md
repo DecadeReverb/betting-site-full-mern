@@ -26,9 +26,9 @@
 
 ## 1. Installation
 
-  1. Download [repository](https://github.com/kheller18/sportsbook-4)
+  1. Download [repository](https://github.com/DecaseReverb/betting-site-full-mern)
 
-	Git clone https://github.com/kheller18/sportsbook-4.git
+	Git clone https://github.com/DecaseReverb/betting-site-full-mern.git
   2. Install dependencies
 
 	npm install
