@@ -76,7 +76,7 @@
 
 ## 6. Deployment
 
-  + [SportBook App](https://sbook-kman.herokuapp.com/)
+  + [SportBook App](https://sportsbook.fanduel.com/)
 
 
 ## 7. Questions
